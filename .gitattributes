@@ -1,2 +1,2 @@
 # direct swift
-*.swift linguist-language=swift
+*.* linguist-language=swift
